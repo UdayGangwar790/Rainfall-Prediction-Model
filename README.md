@@ -36,4 +36,3 @@ Important features included humidity, rainfall today, and temperature.
 ✅ Application:
 Such a model can help in agriculture, event planning, and disaster preparedness by giving early warnings about rainfall.
 
-Let me know if you want this added to the report or turned into a slide!
